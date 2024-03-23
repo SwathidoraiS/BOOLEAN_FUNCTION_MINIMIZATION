@@ -60,9 +60,6 @@ endmodule
 **Output:**
 ![Screenshot (125)](https://github.com/SwathidoraiS/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870557/06f308d2-856a-4343-90fd-6673faac2cdb)
 
-**RTL**
-
-**Timing Diagram**
 
 **Result:**
 
